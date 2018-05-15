@@ -4,3 +4,7 @@
 *.out
 *.pid
 *.gz
+
+build
+node_modules
+bower_components
