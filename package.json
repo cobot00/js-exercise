@@ -1,0 +1,22 @@
+{
+  "name": "js-exercise",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobot00/js-exercise.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cobot00/js-exercise/issues"
+  },
+  "homepage": "https://github.com/cobot00/js-exercise#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
