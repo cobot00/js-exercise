@@ -43,7 +43,7 @@ class C3Generator {
           tick: {
             format: '%H:%M',
             culling: {
-              max: 11
+              max: 11 // to 1 hour interval
             }
           }
         },
