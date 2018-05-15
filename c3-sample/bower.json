@@ -1,0 +1,17 @@
+{
+  "name": "c3-sample",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "cobot00 <kobori75@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cobot00/js-exercise",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
